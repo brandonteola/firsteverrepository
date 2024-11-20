@@ -1,5 +1,5 @@
 # firsteverrepository
-## Brandon's First Repository
+## Brandon's First Repository (First Branch)
 
 In this repository, I want to list out different items:
 - This is my **first** item
