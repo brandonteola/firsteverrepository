@@ -11,3 +11,7 @@ This is an ordered list:
 2. Item 2
 3. Item 3
 
+---
+
+![headshot](https://media.licdn.com/dms/image/v2/D4D03AQHQgApud1f30w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729100737700?e=1737590400&v=beta&t=EPoVFgpai8tFxYWzrjjh43CPj2GQxe_bceMzw2qnhgU)
+[title](https://www.linkedin.com/in/brandon-teola-29bb02302/)
